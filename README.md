@@ -1,1 +1,1 @@
-Atividades POO2
+Atividade Sobre o Princípio da Responsabilidade Única do SOLID.
